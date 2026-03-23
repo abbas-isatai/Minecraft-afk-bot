@@ -1,8 +1,8 @@
-# Repository Stats for albertodrake/Minecraft-afk-bot
-**⏱️ Last Updated:** 2026-03-23 07:57:40 UTC
+# Repository Stats for abbas-isatai/Minecraft-afk-bot
+**⏱️ Last Updated:** 2026-03-23 10:05:04 UTC
 
-- **⭐ Stars:** 2
-- **🍴 Forks:** 24
+- **⭐ Stars:** 0
+- **🍴 Forks:** 0
 - **👀 Watchers:** 0
 - **📈 Total Views (Last 14 days):** 0
 - **👤 Unique Visitors (Last 14 days):** 0
